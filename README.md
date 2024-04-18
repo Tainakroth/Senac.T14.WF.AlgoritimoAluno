@@ -8,7 +8,7 @@
 
 Abaixo um exemplo de oprador lógico
 
-...
+...cssharp
 bool contaPaga=true;
 if(contaPaga){
     consol.WriteLine("imprimir comprovante"):
