@@ -8,6 +8,7 @@
 -
 Abaixo um exemplo de oprador lógico
 
+kijkj
 ```csharp
 bool contaPaga=true;
 if(contaPaga){
